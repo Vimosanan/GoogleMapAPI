@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MapApplication</string>
+    <string name="google_maps_API_key">AIzaSyD1V-J5W7l3imyZG3Ng-74qt_NPfJU77X8</string>
+    <string name="open"> Open</string>
+    <string name="close">Close</string>
+</resources>
